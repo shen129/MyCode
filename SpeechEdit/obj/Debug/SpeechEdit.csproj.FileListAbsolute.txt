@@ -1,0 +1,11 @@
+D:\东南大学\C#项目\SpeechEdit(final)\SpeechEdit\SpeechEdit\bin\Debug\SpeechEdit.exe.config
+D:\东南大学\C#项目\SpeechEdit(final)\SpeechEdit\SpeechEdit\bin\Debug\SpeechEdit.exe
+D:\东南大学\C#项目\SpeechEdit(final)\SpeechEdit\SpeechEdit\bin\Debug\SpeechEdit.pdb
+D:\东南大学\C#项目\SpeechEdit(final)\SpeechEdit\SpeechEdit\obj\Debug\SpeechEdit.csproj.AssemblyReference.cache
+D:\东南大学\C#项目\SpeechEdit(final)\SpeechEdit\SpeechEdit\obj\Debug\SpeechEdit.Properties.Resources.resources
+D:\东南大学\C#项目\SpeechEdit(final)\SpeechEdit\SpeechEdit\obj\Debug\SpeechEdit.csproj.GenerateResource.cache
+D:\东南大学\C#项目\SpeechEdit(final)\SpeechEdit\SpeechEdit\obj\Debug\SpeechEdit.csproj.CoreCompileInputs.cache
+D:\东南大学\C#项目\SpeechEdit(final)\SpeechEdit\SpeechEdit\obj\Debug\SpeechEdit.exe
+D:\东南大学\C#项目\SpeechEdit(final)\SpeechEdit\SpeechEdit\obj\Debug\SpeechEdit.pdb
+D:\东南大学\C#项目\SpeechEdit(final)\SpeechEdit\SpeechEdit\obj\Debug\SpeechEdit.SpeechEditForm.resources
+D:\东南大学\C#项目\SpeechEdit(final)\SpeechEdit\SpeechEdit\obj\Debug\SpeechEdit.csprojResolveAssemblyReference.cache
